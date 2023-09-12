@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About MySelf</string>
+    <string name="my_name">Asiah Asiah</string>
+    <string name="my_email">asiahbitiendro@gmail.com</string>
+    <string name="my_profile">My Profile</string>
+    <string name="first_name">First Name:</string>
+    <string name="first_name1">Asiah</string>
+    <string name="last_name">Last Name:</string>
+    <string name="last_name2">Asiah</string>
+    <string name="major">Major:</string>
+    <string name="major2">Student</string>
+    <string name="class1">Class:</string>
+    <string name="class2">11 Programmer</string>
+    <string name="education">Education:</string>
+    <string name="education1">SMK IDN</string>
+    <string name="address">Address:</string>
+    <string name="Address1">North Jakarta</string>
+    <string name="button">Update Profile</string>
+
+
+</resources>
