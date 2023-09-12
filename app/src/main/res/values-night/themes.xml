@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DoaAndDzikirApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/gray</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!--    secondary brand color-->
+        <item name="colorSecondary" >@color/gray</item>
+        <item name="colorOnSecondary" >@color/white</item>
+
+    </style>
+</resources>
