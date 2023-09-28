@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Doa and Dzikir App</string>
+    <string name="app_name">PrayMoslem</string>
 
     <string name="txt_judul_fitur">Kumpulan Doa &amp; Dzikir Sehari-hari</string>
     <string name="txt_sunnah_qauliyah">Sunnah-sunnah Qauliyah \nDzikir &amp; Doa Shahih</string>
@@ -20,37 +20,149 @@
     <string name="content_txt_icon_btn_dzikir_petang">Icon btn Dzikir Petang</string>
     <string name="content_txt_icon_image_for_background_dzikir">Icon image for Background Dzikir</string>
     <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
+    <string name="dzikir">dzikir</string>
     <string-array name="arr_img_artikel">
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
+        <item>@drawable/article_keutamaan_tahajud</item>
+        <item>@drawable/article_berbuka_puasa</item>
+        <item>@drawable/article_salat_berjamaah</item>
+        <item>@drawable/article_hukum_qurban</item>
+        <item>@drawable/article_sedekah</item>
+<!--        <item>@drawable/bg_artikel</item>-->
+<!--        <item>@drawable/artikel_1</item>-->
+<!--        <item>@drawable/bg_artikel</item>-->
     </string-array>
 
     <string-array name="arr_title_artikel">
-        <item>Sedekah Adalah Bukti Keimanan</item>
-        <item>Artikel 2 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 3 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 4 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 5 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 6 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 7 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 8 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Keutamaan Salat Tahajud</item>
+        <item>Keutamaan Berbuka Puasa dengan Kurma</item>
+        <item>Ayo Solat Berjamaah</item>
+        <item>Hukum Berqurban</item>
+        <item>Sempunakanlah Iman dengan Bersedekah</item>
+<!--        <item>Artikel 6 Artikel Artikel Artikel Artikel Artikel</item>-->
+<!--        <item>Artikel 7 Artikel Artikel Artikel Artikel Artikel</item>-->
+<!--        <item>Artikel 8 Artikel Artikel Artikel Artikel Artikel</item>-->
     </string-array>
 
     <string-array name="arr_desc_artikel">
-        <item>Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak. Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah. Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup. Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>\nSalat tahajud merupakan salah satu shalat sunah yang banyak memiliki keutamaan. Waktu yang paling dianjurkan adalah di sepertiga malam terakhir selepas tengah malam hingga masuknya waktu shubuh. Ada banyak keutamaan shalat tahajud yang mungkin belum kita ketahui.\n
+\n
+Seperti firman Allah SWT dalam Al-Qur’an:
+\n
+اِنَّ نَاشِئَةَ الَّيْلِ هِيَ اَشَدُّ وَطْـًٔا وَّاَقْوَمُ قِيْلًاۗ
+\n
+“Sesungguhnya bangun di waktu malam adalah lebih tepat (untuk khusyu) dan bacaan di waktu itu lebih berkesan.” (QS. Al-Muzzammil:6)\n
+\n
+Beberapa keutamaan shalat tahajud, adalah:\n
+1. Orang yang melaksanakan shalat tahajud akan diberikan tempat yang mulia disisi Allah SWT.\n
+2. Doa lebih mudah dikabulkan.\n
+3. Menjadi orang yang spesial dimata Allah SWT.\n
+4. Salat tahajud merupakan amalan yang dapat membantu di akhirat.\n</item>
+
+        <item>\nBerbuka puasa dengan kurma memiliki keutamaan di antaranya dapat menguatkan badan dan menajamkan pandangan. Ibnu Hajar Al Asqolani rahimahullah pernah menyampaikan hal tersebut dalam Kitab Bulughul Marom hadits no. 660:
+\n\n
+Dari Salman bin ‘Amir Adh Dhobbi radhiyallahu ‘anhu, dari Nabi shallallahu ‘alaihi wa sallam, beliau bersabda, “Jika salah seorang di antara kalian berbuka, maka berbukalah dengan tamr (kurma kering). Jika tidak dapati kurma, maka berbukalah dengan air karena air itu mensucikan.”
+\n\n
+Ibnu Hajar berkata bahwa hadits di atas dikeluarkan oleh yang lima, yaitu empat kitab sunan (Ibnu Majah, Abu Daud, An Nasai, Tirmidzi) dan musnad Imam Ahmad. Hadits ini dishahihkan oleh Ibnu Khuzaimah, Ibnu Hibban dan Al Hakim.
+\n\n
+Beberapa keutamaan yang dapat dipetik berbuka dnegna kurma dari hadits di atas:
+\n
+1. Hadits di atas menunjukkan disyari’atkannya berbuka puasa dengan tamr (kurma kering).\n
+2. Sangat bagus berbuka puasa dengan kurma. Namun kurma basah (ruthob) lebih utama, lalu kurma kering (tamr), kemudian jika tidak ada, berbuka puasalah dengan seteguk air. Dari Anas bin Malikradhiyallahu ‘anhu, ia berkata: “Rasulullah shallallahu ‘alaihi wa sallam biasanya berbuka dengan rothb (kurma basah) sebelum menunaikan shalat. Jika tidak ada ruthob (kurma basah), maka beliau berbuka dengan tamr (kurma kering). Dan jika tidak ada yang demikian beliau berbuka dengan seteguk air.” (HR. Abu Daud no. 2356 dan Ahmad 3: 164. Syaikh Al Albani mengatakan bahwa hadits ini hasan shahih).\n
+3. Hadits ini menunjukkan petunjuk Nabi SAW ketika berbuka puasa dengan hal-hal yang telah disebutkan. Di mana yang dikonsumsi saat itu bermanfaat bagi badan, sebagai asupan makanan dan penyemangat di saat letih berpuasa.\n
+4. Syaikh Muhammad bin Sholih Al ‘Utsaimin menjelaskan bahwa berbuka puasa dengan kurma tidaklah wajib. Namun berbuka dengan kurma itu lebih sempurna dan lebih utama.\n</item>
+
+        <item>\nKita dianjurkan shalat jama’ah karena “Jamaah” sebagai manifestasi hidup berkomunikasi sosial, yang akan mendapat jaminan kesejahteraan di dunia dan di akhirat karena. Dalam shalat jamaah disamping ada hubungan vertikal juga ada hubungan horizontal, sebagaimana disebutkan dalam surah Ali Imrah (3): 112: “Mereka akan terkena kehinaan di manapun berada, kecuali mau berkomunikasi dengan Allah SWT., dan komunikasi sosial dengan sesama manusia…”
+\n\n
+Shalat berjamaah adalah shalat bersama-sama dilaksanakan di sebuah tempat, terdiri imam dan makmum. Dari sisi agama shalat ini mempunyai nilai lebih dibanding dengan shalat sendirian. Perintah Allah SWT. Dalam al-Qur`an surah al-nisa` (4): 102: “Apabila engkau (Muhammad) bersama mereka dalam suatu peperangan, dan kamu berkehendak untuk shalat dengan mereka, maka hendaknya sebagian mereka berdiri shalat bersamamu”. Dan hadits nabi saw.: Shalat jama’ah itu melebihi shalat sendiria sebanyak 27 derajat” (HR. Bukhari-Muslim).
+\n\n
+Ada tiga kategori jamaah, yaitu:\n
+1. Fardlu ‘ain seperti shalat jum’at.\n
+2. Fardlu kifayah seperti shalat janazah\n
+3. Sunnah mu`akkadah yaitu shalat-shalat selain shalat tersebut.\n\n
+
+Sebaiknya Jamaah dilakukan di masjid, meskipun jauh. Ada janji pahala yang cukup menarik bagi yang berjamaah di masjid, yaitu setiap langkah (jika naik kendaraan, maka setiap putaran roda) mendapat sepuluh pahala (al-Hadits).
+\n\n
+Ditinjau dari aspek psikologis, jamaah merupakan faktor utama dalam menciptakan kebersamaan, sehingga bisa saling meniru terhadap prilaku terpuji dan baik terhadap orang lain karena ada kecenderungan manusia itu suka meniru, di samping itu akan mendapat ridla Sang Pencipta, memberi motivasi bekerja secara kualitatif dan kuantitatif, dan turunnya berkah dari Tuhan.
+\n\n
+Dari aspek sosial, jamaah dapat menjadi sarana menghapus dendam dan dengki, menghilangkan jurang pemisah antara tingkat sosial: kaya-miskin, kuat-lemah; dan sebagai media tukar menukar informasi serta yang lainnya.
+\n\n
+Selain itu, di dalam shalat berjamaah ada imam dan makmum. Hal ini melatih sikap kepemimpinan (leadership) dan ketaatan terhadap siapapun yang menjadi pimpinan. Apabila suatu saat Imam melakukan  kesalahan, maka imam harus ditegur dan makmum siap menegur tanpa malu-malu.\n</item>
+
+        <item>\nPara ulama berbeda pendapat tentang hukum kurban menjadi beberapa pendapat, yang paling masyhur ada dua pendapat, yaitu:
+\n\n
+Pendapat pertama: Hukum kurban adalah sunnah muakkadah, pelakunya mendapat pahala dan yang meninggalkannya tidak berdosa. Inilah pendapat mayoritas ulama Salaf dan yang setelah mereka.
+\n\n
+Pendapat kedua: Hukum kurban adalah wajib secara syar’i atas muslim yang mampu dan tidak musafir, dan berdosa jika tidak berkurban. Inilah pendapat Abu Hanifah dan selainnya dari para ulama.
+\n\n
+Setiap pendapat ini berdalil dengan dalil yang telah dipaparkan dalam kitab-kitab madzhab. Pendapat yang menenangkan jiwa dan didukung dengan dalil-dalil kuat dalam pandangan saya bahwa hukum kurban adalah sunnah muakkadah, tidak wajib.
+\n\n
+Ibnu Hazm rahimahullah berkata, “Kurban hukumnya sunnah hasanah, tidak wajib. Barangsiapa meninggalkannya tanpa kebencian terhadapnya, maka tidaklah berdosa.”
+\n\n
+Sedangkan Imam an-Nawawi rahimahullah mengatakan, “Para ulama berbeda pendapat tentang kewajiban kurban atas orang yang mampu. Sebagian besar ulama berpendapat bahwa kurban itu sunnah bagi orang yang mampu, jika tidak melakukannya tanpa udzur, maka ia tidak berdosa dan tidak harus mengqadha’nya. Ada juga pendapat yang mengatakan bahwa kurban itu wajib atas orang yang mampu.
+\n</item>
+
+        <item>\nSebagaimana yang sudah kita ketahui semuanya bahwa seluruh dunia telah terjadi musibah dan bencana besar yaitu penyebaran wabah virus Corona (Covid-19), penyebaran wabah ini merata ke seluruh negara-negara berkembang maupun negara maju. Karena cepatnya penyebaran virus Corona ini (Covid-19), sehingga menelan puluhan ribu nyawa manusia di berbagai negara. Dan setiap negara berusaha mencegah dengan berbagai cara, ada yang dengan Lockdown secara total ada pula yang hanya sebagian. Untuk di Indonesia sendiri hanya sebagian saja dengan istilah “Di Rumah Saja”, dengan himbauan pemerintah untuk “Di Rumah Saja”, maka seluruhnya dihimbau untuk dikerjakan di rumah apakah itu kerja, dagang, sekolah, kuliah dan lainnya, semuanya diliburkan. Semua sektor perekonomian dan perdagangan jadi macet, sehingga menimbulkan kerugian yang besar dan menimbulkan masalah baru, banyak karyawan yang di PHK, banyak yang tidak kerja lagi, banyak yang tidak punya mata pencaharian lagi, banyak pedagang yang bangkrut, banyak pengangguran, sehingga dengan itu semua bertambah jumlah orang-orang yang fakir, miskin, kesulitan, kelaparan, dan belum lagi yang meninggal dan terserang berbagai macam penyakit. Allahul Musta’aan. Allahumma Inna Nas-alukal ‘Afwa wal ‘Afiyah.
+\n\n
+Dalam kondisi yang sulit seperti ini, banyaknya orang yang susah, kelaparan, sakit dan lainnya, maka wajib bagi kaum Muslimin untuk saling tolong-menolong dalam kebaikan, wajib membantu orang-orang yang susah, sulit, fakir, miskin, yang sakit maupun yang kelaparan. Kita wajib menolong dan membantu mereka. Diantara bentuk pertolongan yang besar yang sangat dibutuhkan sekarang adalah anjuran bersedekah, mengeluarkan zakat dan sedekah, disamping dengan uang, juga makanan, sembako, dan kebutuhan-kebutuhan pokok yang sangat dibutuhkan oleh kaum Muslimin. Maka kepada para pejabat, orang-orang kaya dan orang-orang yang mampu, dihimbau untuk segera mengeluarkan zakat Anda, dan segera sedekahkan apa yang ada pada kita untuk membantu  kaum Muslimin yang fakir, miskin, yang kelaparan dan lainnya.
+\n\n
+Allah Tabaraka wa Ta’ala berfirman,
+\n
+وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ
+\n
+“… Dan tolong menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan…” [Al-Maa-idah/5: 2]
+\n\n
+Allah Subhanahu wa Ta’ala berfirman,
+\n
+وَيُطْعِمُونَ الطَّعَامَ عَلَىٰ حُبِّهِ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا ﴿٨﴾ إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنْكُمْ جَزَاءً وَلَا شُكُورًا ﴿٩﴾ إِنَّا نَخَافُ مِنْ رَبِّنَا يَوْمًا عَبُوسًا قَمْطَرِيرًا
+\n
+”Dan mereka memberikan makanan yang disukainya kepada orang miskin, anak yatim dan orang yang ditawan, (sambil berkata), ’Sesungguhnya kami memberi makanan kepadamu hanyalah karena mengharapkan wajah Allah, kami tidak mengharap balasan dan terima kasih dari kamu. Sungguh, kami takut akan (adzab) Rabb pada hari (ketika) orang-orang berwajah masam penuh kesulitan.’”[Al-Insaan/76: 8-10]
+\n\n
+Allah Subhanahu wa Ta’ala berfirman,
+\n
+فَلَا اقْتَحَمَ الْعَقَبَةَ﴿١١﴾وَمَا أَدْرَاكَ مَا الْعَقَبَةُ﴿١٢﴾فَكُّ رَقَبَةٍ﴿١٣﴾أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ﴿١٤﴾يَتِيمًا ذَا مَقْرَبَةٍ﴿١٥﴾أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
+\n
+”Tetapi dia tidak menempuh jalan yang mendaki dan sukar?Dan tahukah kamu apakah jalan yang mendaki dan sukar itu?(Yaitu) melepaskan perbudakan (hamba sahaya) atau memberi makan pada hari terjadi kelaparan, (kepada) anak yatim yang ada hubungan kerabat, atau orang miskin yang sangat fakir.”[Al-Balad/90: 11-16]
+\n\n
+Rasulullah Shallallahu ‘alaihi wa sallam bersabda,
+\n
+مَنْ نَفَّسَ عَنْ مُؤْمِنٍ كُرْبَةً مِنْ كُرَبِ الدُّنْيَا نَفَّسَ اللهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ، وَمَنْ يَسَّرَ عَلَى مُعْسِرٍيَسَّرَ اللهُ عَلَيْهِ فِـي الدُّنْيَا وَالْآخِرَةِ، وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللهُ فِـي الدُّنْيَا وَالْآخِرَةِ، وَاللهُ فِـيْ عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِـي عَوْنِ أَخِيْهِ…
+\n
+“Barangsiapa yang melapangkan untuk seorang mukmin satu kesusahan dari kesusahan-kesusahan dunia, maka Allah akan melapangkan untuknya satu kesusahan dari kesusahan-kesusahan di hari Kiamat. Barangsiapa memudahkan (urusan) orang yang kesulitan (dalam masalah hutang), maka Allah memudahkan baginya (dari kesulitan) di dunia dan akhirat. Barangsiapa menutupi (aib) seorang muslim, maka Allah akan menutup (aib)nya di dunia dan akhirat. Allah senantiasa menolong hambanya selama hamba tersebut senantiasa menolong saudaranya…”
+\n\n
+Rasulullah Shallallahu ‘alaihi wa sallam juga bersabda,
+\n
+وَمَنْ كَانَ فِـيْ حَاجَةِ أَخِيْهِ كَانَ اللهُ فِـيْ حَاجَتِهِ، وَمَنْ فَرَّجَ عَنْ مُسْلِمٍكُرْبَةً فَرَّجَ اللهُ عَنْهُ كُرْبَةً مِنْ كُرَبِ يَوْمِ الْقِيَامَةِ، وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللهُ يَوْمَ الْقِيَامَةِ.
+\n
+“…Barangsiapa memenuhi kebutuhan saudaranya, Allah akan memenuhi kebutuhannya. Barangsiapa melepaskan satu kesulitan dari seorang muslim, Allah akan melepaskan darinya satu kesusahan dari kesusahan-kesusahan hari Kiamat. Dan barangsiapa menutupi aib seorang muslim, Allah akan menutup aibnya pada hari Kiamat.”
+\n\n
+Di dalam dua hadits di atas menunjukkan bahwa orang yang melapangkan kesusahan dan kesulitan seorang Mukmin, maka Allah Tabaraka wa Ta’ala akan melapangkan dan menghilangkan kesusahan dan kesulitan di hari kiamat. Yang wajib diketahui bahwa kesusahan dan kesulitan di hari Kiamat sangat berat dan sangat dahsyat. Dan ketakutan yang paling besar adalah di hari kiamat. Kesusahan dan kesulitan di dunia tidak seberapa dibandingkan dengan kesulitan di akhirat. Oleh karena itu kita wajib membantu orang-orang yang mengalami kesulitan, kesusahan, kelaparan, orang-orang fakir miskin, bantu mereka karena Allah. Mudah-mudahan Allah lapangkan dan hilangkan kesulitan kita di hari kiamat.Aamiin.
+\n\n
+Keutamaan Bersedekah Dalam Kehidupan Seorang Mukmin yang tujuannya adalah akhirat yaitu Sorga yang abadi. Karena itu, ia berusaha dengan sungguh-sungguh untuk melaksanakan amal-amal shalih dengan ikhlas dan ittiba’ (mengikuti petunjuk Rasulullah Shallallahu ‘alaihi wa sallam) agar ia dimasukkan ke Surga. Bagi seorang mukmin, hidup sepenuhnya adalah untuk beribadah kepada Allah Tabaraka wa Ta’ala dan mencari harta (mata pencaharian) dalam rangka ibadah kepada Allah Tabaraka wa Ta’ala, untuk menunaikan kewajiban, dan memenuhi hak kebutuhan anak, istri, orang tua, dan orang-orang yang menjadi tanggungannya. Orang yang tujuannya akhirat akan dimudahkan urusannya oleh Allah Azza wa Jalla dan diberikan kekayaan hati. Tidak ada yang bermanfaat bagi seorang hamba dalam kehidupan akhiratnya kelak selain iman dan amal shalih yang pernah ia lakukan dengan ikhlas karena Allah Tabaraka wa Ta’ala. Orang-orang yang beramal shalih dijanjikan Allah dengan Surga. Berbahagialah orang-orang dermawan, yang memelihara hak-hak orang miskin, anak yatim, dan orang-orang fakir. Beruntunglah orang-orang yang menginfakkan hartanya dengan ikhlas karena Allah Tabaraka wa Ta’ala. Dan merugilah orang-orang yang bakhil, kikir, pelit, dan kedekut yang menahan hartanya dari orang-orang yang berhak ia berikan.
+\n\n
+Allah Tabaraka wa Ta’ala berfirman,
+\n
+فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ ﴿٥﴾ وَصَدَّقَ بِالْحُسْنَىٰ ﴿٦﴾ فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ ﴿٧﴾ وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ ﴿٨﴾ وَكَذَّبَ بِالْحُسْنَىٰ ﴿٩﴾ فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ ﴿١٠﴾ وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ
+\n
+ﱡMaka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa, dan membenarkan (adanya pahala) yang terbaik (Surga), maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan). Dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah), serta mendustakan (pahala) yang terbaik, maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan). Dan hartanya tidak bermanfaat baginya apabila dia telah binasa.” [Al-Lail/92: 5-11]
+\n\n
+Dari Abu Hurairah Radhiyallahu anhu, ia berkata, “Rasulullah Shallallahu ‘alaihi wa sallam bersabda,
+\n
+لَا يَـجْتَمِعُ الشُّحُّ وَالْإِيْمَانُ فِـيْ قَلْبِ عَبْدٍ أَبَدًا.
+\n
+‘Tidak akan pernah berkumpul antara kekikiran dan iman di hati seorang hamba selama-lamanya.””
+\n
+Di antara amal shalih yang besar ganjarannya dan mulia di sisi Allah Tabaraka wa Ta’ala adalah sedekah. Sedekah memiliki rahasia yang mengagumkan dalam menolak bencana. Dengan sedekah, Allah akan menolak berbagai macam bencana. Hal ini sudah diketahui di kalangan manusia, baik kalangan terpelajar maupun masyarakat umum. Penduduk bumi pun mengakuinya karena pernah mencobanya.
+\n\n
+Pada hakikatnya harta yang kita miliki adalah harta yang telah kita habiskan dan kita sedekahkan, sedangkan harta yang kita tinggalkan dan kita simpan adalah milik ahli waris kita. Rasulullah Shallallahu ‘alaihi wa sallam bersabda,
+\n
+أَيُّكُمْ مَالُ وَارِثِهِ أَحَبُّ إِلَيْهِ مِنْ مَالِهِ؟ قَالُوْا: يَا رَسُوْلَ اللهِ مَا مِنَّا أَحَدٌ إِلَّا مَالُهُ أَحَبُّ إِلَيْهِ، قَالَ: فَإِنَّ مَالَهُ مَا قَدَّمَ وَمَالَ وَارِثِهِ مَا أَخَّرَ.
+\n
+”Siapakah diantara kalian yang mencintai harta ahli warisnya lebih daripada mencintai hartanya sendiri? Mereka menjawab, ”Ya Rasulullah! Tidak ada seorang pun diantara kami melainkan lebih mencintai hartanya sendiri.”Lalu beliau bersabda,”Sesungguhnya hartanya sendiri itu ialah apa yang telah dipergunakannya (disedekahkannya) dan harta ahli warisnya ialah apa yang ditinggalkannya.\n
+</item>
+
+<!--        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>-->
+<!--        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>-->
+<!--        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>-->
     </string-array>
 
     <string-array name="arr_dzikir_doa_harian">

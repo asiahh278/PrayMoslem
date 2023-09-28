@@ -15,7 +15,7 @@
         android:layout_marginStart="8dp"
         android:fontFamily="@font/arabic_arihna"
         android:text="@string/app_name"
-        android:textColor="@color/blue"
+        android:textColor="@color/green"
         android:textSize="32dp"
         android:textStyle="bold" />
 
@@ -59,7 +59,7 @@
                 android:layout_marginBottom="16dp"
                 android:fontFamily="@font/arabic_arihna"
                 android:text="@string/txt_judul_fitur"
-                android:textColor="@color/blue"
+                android:textColor="@color/green"
                 android:textSize="18sp"
                 android:textStyle="bold"/>
 
@@ -76,17 +76,18 @@
                 <ImageView
                     android:layout_width="75dp"
                     android:layout_height="75dp"
-                    android:src="@drawable/ic_doa"/>
-                
+                    android:src="@drawable/logo_sunnah_qauliyah_dzikir_dan_doa_shahih"/>
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:layout_marginStart="16dp"
+                    android:layout_marginTop="13dp"
                     android:text="@string/txt_sunnah_qauliyah"
-                    android:textSize="18sp"
+                    android:textSize="19sp"
                     android:textStyle="bold"
-                    android:textColor="@color/blue"/>
+                    android:textColor="@color/green"/>
 
             </LinearLayout>
 <!--            end section sunnah qauliyah-->
@@ -104,17 +105,18 @@
                 <ImageView
                     android:layout_width="75dp"
                     android:layout_height="75dp"
-                    android:src="@drawable/ic_time"/>
+                    android:src="@drawable/logo_dzikir_setiap_saat"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:layout_marginStart="16dp"
+                    android:layout_marginTop="20dp"
                     android:text="@string/txt_dzikir_setiap_saat"
-                    android:textSize="18sp"
+                    android:textSize="19sp"
                     android:textStyle="bold"
-                    android:textColor="@color/blue"/>
+                    android:textColor="@color/green"/>
 
             </LinearLayout>
 <!--            end section dzikir setiap saat-->
@@ -132,17 +134,18 @@
                 <ImageView
                     android:layout_width="75dp"
                     android:layout_height="75dp"
-                    android:src="@drawable/ic_dzikir"/>
+                    android:src="@drawable/logo_dzikir_dan_doa_harian"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:layout_marginStart="16dp"
+                    android:layout_marginTop="20dp"
                     android:text="@string/txt_dzikir_doa_harian"
-                    android:textSize="18sp"
+                    android:textSize="19dp"
                     android:textStyle="bold"
-                    android:textColor="@color/blue"/>
+                    android:textColor="@color/green"/>
             </LinearLayout>
 <!--            end section dzikir dan doa harian-->
 
@@ -159,17 +162,18 @@
                 <ImageView
                     android:layout_width="75dp"
                     android:layout_height="75dp"
-                    android:src="@drawable/ic_pagi_petang"/>
+                    android:src="@drawable/logo_dzikir_pagi_dan_petang"/>
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:layout_marginStart="16dp"
+                    android:layout_marginTop="20dp"
                     android:text="@string/txt_dzikir_pagi_petang"
-                    android:textSize="18sp"
+                    android:textSize="19sp"
                     android:textStyle="bold"
-                    android:textColor="@color/blue"/>
+                    android:textColor="@color/green"/>
             </LinearLayout>
 <!--            end section dzikir pagi dan petang-->
 

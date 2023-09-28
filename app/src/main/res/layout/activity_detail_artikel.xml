@@ -22,8 +22,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerCrop"
-            android:contentDescription="@string/content_txt_image_artikel"
-            android:src="@drawable/artikel_1"
+            android:src="@drawable/article_keutamaan_tahajud"
             android:transitionName="artikel"/>
     </androidx.cardview.widget.CardView>
     
@@ -31,12 +30,13 @@
         android:id="@+id/tv_detail_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        app:layout_constrainedHeight="true"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
         android:fontFamily="sans-serif"
         android:paddingStart="16dp"
         android:paddingEnd="16dp"
-        android:textColor="@color/blue"
+        android:textColor="@color/green"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintTop_toBottomOf="@id/cv_img_detail"/>
@@ -53,10 +53,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/bg_item"
-            android:fontFamily="sans-serif-black"
+            android:fontFamily="sans-serif"
             android:paddingHorizontal="16dp"
             android:paddingVertical="16dp"
-            android:textColor="@color/blue"
-            android:textSize="17sp"/>
+            android:textColor="@color/green"
+            android:textSize="17sp"
+            android:justificationMode="inter_word"/>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

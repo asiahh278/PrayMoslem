@@ -14,9 +14,9 @@
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:layout_alignParentTop="true"
-        android:background="@drawable/bg_menu"
+        android:background="@drawable/bg_menu_by_asiah"
         android:text="@string/txt_dzikir_pagi_petang"
-        android:textColor="@color/blue"
+        android:textColor="@color/green"
         android:textSize="24sp"
         android:textStyle="bold"
         android:gravity="bottom"
@@ -28,23 +28,23 @@
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/cv_dzikir_pagi"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="250dp"
         app:cardCornerRadius="15dp"
         app:layout_constraintTop_toBottomOf="@id/tv_dzikir_pagi_petang"
         app:layout_constraintBottom_toTopOf="@id/cv_dzikir_pagi"
-        android:layout_marginTop="32dp">
+        android:layout_marginTop="30dp">
         
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:scaleType="centerCrop"
-            android:src="@drawable/ic_morning"
+            android:src="@drawable/bg_sunrise"
             android:contentDescription="@string/content_txt_icon_image_for_background_dzikir"/>
         
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/blue"
+            android:background="@color/green"
             android:padding="8dp"
             android:text="@string/txt_dzikir_pagi"
             android:textColor="@color/white"
@@ -66,27 +66,28 @@
     <com.google.android.material.card.MaterialCardView
         android:id="@+id/cv_dzikir_petang"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="250dp"
         app:cardCornerRadius="15dp"
-        app:layout_constraintTop_toBottomOf="@id/cv_dzikir_pagi"
-        app:layout_constraintBottom_toBottomOf="parent">
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cv_dzikir_pagi"
+        tools:layout_editor_absoluteX="5dp">
 
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:contentDescription="@string/content_txt_icon_image_for_background_dzikir"
             android:scaleType="centerCrop"
-            android:src="@drawable/ic_evening"
-            android:contentDescription="@string/content_txt_icon_image_for_background_dzikir"/>
+            android:src="@drawable/bg_sunset" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/blue"
+            android:background="@color/green"
             android:padding="8dp"
             android:text="@string/txt_dzikir_petang"
             android:textColor="@color/white"
             android:textSize="18sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
         <ImageButton
             android:id="@+id/img_btn_dzikir_petang"
@@ -95,9 +96,9 @@
             android:layout_gravity="bottom|end"
             android:layout_marginEnd="16dp"
             android:layout_marginBottom="8dp"
-            android:src="@drawable/bg_btn_dzikir"
             android:background="@android:color/transparent"
-            android:contentDescription="@string/content_txt_icon_btn_dzikir_petang"/>
+            android:contentDescription="@string/content_txt_icon_btn_dzikir_petang"
+            android:src="@drawable/bg_btn_dzikir" />
     </com.google.android.material.card.MaterialCardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

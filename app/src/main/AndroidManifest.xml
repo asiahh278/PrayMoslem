@@ -12,50 +12,55 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DoaAndDzikirApp"
         tools:targetApi="31">
-
+        <activity
+            android:name=".PracticeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".example"
+            android:exported="false" />
+        <activity
+            android:name=".random"
+            android:exported="false" />
+        <activity
+            android:name=".whatever"
+            android:exported="false" />
         <activity
             android:name=".ui.SetiapSaatDzikirActivity"
             android:exported="false"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
-
         <activity
             android:name=".ui.PagiPetangDzikirActivity"
             android:exported="false"
             android:screenOrientation="portrait"
-            tools:ignore="LockedOrientationActivity"/>
-
+            tools:ignore="LockedOrientationActivity" />
         <activity
             android:name=".ui.HarianDzikirDoaActivity"
             android:exported="false"
             android:screenOrientation="portrait"
-            tools:ignore="LockedOrientationActivity"/>
-
+            tools:ignore="LockedOrientationActivity" />
         <activity
             android:name=".ui.detail.DzikirPetangActivity"
             android:exported="false"
-            android:theme="@style/PetangActivity"
             android:screenOrientation="portrait"
+            android:theme="@style/PetangActivity"
             tools:ignore="LockedOrientationActivity" />
         <activity
             android:name=".ui.detail.DzikirPagiActivity"
             android:exported="false"
-            android:theme="@style/PagiActivity"
             android:screenOrientation="portrait"
+            android:theme="@style/PagiActivity"
             tools:ignore="LockedOrientationActivity" />
-
         <activity
             android:name=".ui.detail.DetailArtikelActivity"
             android:exported="false"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
-
         <activity
             android:name=".ui.QauliyahShalatActivity"
             android:exported="false"
             android:screenOrientation="portrait"
             tools:ignore="LockedOrientationActivity" />
-
         <activity
             android:name=".MainActivity"
             android:exported="true"
