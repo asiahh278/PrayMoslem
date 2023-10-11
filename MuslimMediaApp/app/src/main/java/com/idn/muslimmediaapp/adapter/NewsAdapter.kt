@@ -4,7 +4,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
 class NewsAdapter : RecyclerView.Adapter<NewsAdapter.MyViewHolder>() {
-    class MyViewHolder {
+    class MyViewHolder(val binding: N) {
 
     }
 
